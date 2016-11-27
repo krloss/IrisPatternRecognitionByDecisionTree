@@ -1,0 +1,2684 @@
+001 img/001/01.bmp
+001 img/001/02.bmp
+001 img/001/03.bmp
+001 img/001/04.bmp
+001 img/001/05.bmp
+001 img/001/06.bmp
+001 img/001/07.bmp
+001 img/001/08.bmp
+001 img/001/09.bmp
+001 img/001/10.bmp
+002 img/002/01.bmp
+002 img/002/02.bmp
+002 img/002/03.bmp
+002 img/002/04.bmp
+002 img/002/05.bmp
+002 img/002/06.bmp
+002 img/002/07.bmp
+002 img/002/08.bmp
+002 img/002/09.bmp
+002 img/002/10.bmp
+003 img/003/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+003 img/003/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+003 img/003/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+003 img/003/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+003 img/003/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+003 img/003/06.bmp
+003 img/003/07.bmp
+003 img/003/08.bmp
+003 img/003/09.bmp
+003 img/003/10.bmp
+004 img/004/01.bmp
+004 img/004/02.bmp
+004 img/004/03.bmp
+004 img/004/04.bmp
+004 img/004/05.bmp
+004 img/004/06.bmp
+004 img/004/07.bmp
+004 img/004/08.bmp
+004 img/004/09.bmp
+004 img/004/10.bmp
+005 img/005/01.bmp
+005 img/005/02.bmp
+005 img/005/03.bmp
+005 img/005/04.bmp
+005 img/005/05.bmp
+005 img/005/06.bmp
+005 img/005/07.bmp
+005 img/005/08.bmp
+005 img/005/09.bmp
+005 img/005/10.bmp
+006 img/006/01.bmp
+006 img/006/02.bmp
+006 img/006/03.bmp
+006 img/006/04.bmp
+006 img/006/05.bmp
+006 img/006/06.bmp
+006 img/006/07.bmp
+006 img/006/08.bmp
+006 img/006/09.bmp
+006 img/006/10.bmp
+007 img/007/01.bmp
+	reduce() of empty sequence with no initial value
+007 img/007/02.bmp
+007 img/007/03.bmp
+007 img/007/04.bmp
+007 img/007/05.bmp
+007 img/007/06.bmp
+007 img/007/07.bmp
+007 img/007/08.bmp
+007 img/007/09.bmp
+007 img/007/10.bmp
+008 img/008/01.bmp
+008 img/008/02.bmp
+008 img/008/03.bmp
+008 img/008/04.bmp
+008 img/008/05.bmp
+008 img/008/06.bmp
+008 img/008/07.bmp
+008 img/008/08.bmp
+008 img/008/09.bmp
+008 img/008/10.bmp
+009 img/009/01.bmp
+009 img/009/02.bmp
+009 img/009/03.bmp
+009 img/009/04.bmp
+009 img/009/05.bmp
+009 img/009/06.bmp
+009 img/009/07.bmp
+009 img/009/08.bmp
+009 img/009/09.bmp
+009 img/009/10.bmp
+010 img/010/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+010 img/010/02.bmp
+010 img/010/03.bmp
+010 img/010/04.bmp
+010 img/010/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+010 img/010/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+010 img/010/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+010 img/010/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+010 img/010/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+010 img/010/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+011 img/011/01.bmp
+011 img/011/02.bmp
+011 img/011/03.bmp
+011 img/011/04.bmp
+011 img/011/05.bmp
+011 img/011/06.bmp
+011 img/011/07.bmp
+011 img/011/08.bmp
+011 img/011/09.bmp
+011 img/011/10.bmp
+012 img/012/01.bmp
+012 img/012/02.bmp
+012 img/012/03.bmp
+012 img/012/04.bmp
+012 img/012/05.bmp
+012 img/012/06.bmp
+012 img/012/07.bmp
+012 img/012/08.bmp
+012 img/012/09.bmp
+012 img/012/10.bmp
+013 img/013/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+013 img/013/02.bmp
+013 img/013/03.bmp
+013 img/013/04.bmp
+013 img/013/05.bmp
+013 img/013/06.bmp
+013 img/013/07.bmp
+013 img/013/08.bmp
+013 img/013/09.bmp
+013 img/013/10.bmp
+014 img/014/01.bmp
+014 img/014/02.bmp
+014 img/014/03.bmp
+014 img/014/04.bmp
+014 img/014/05.bmp
+014 img/014/06.bmp
+014 img/014/07.bmp
+014 img/014/08.bmp
+014 img/014/09.bmp
+014 img/014/10.bmp
+015 img/015/01.bmp
+015 img/015/02.bmp
+015 img/015/03.bmp
+015 img/015/04.bmp
+015 img/015/05.bmp
+015 img/015/06.bmp
+015 img/015/07.bmp
+015 img/015/08.bmp
+015 img/015/09.bmp
+015 img/015/10.bmp
+016 img/016/01.bmp
+016 img/016/02.bmp
+016 img/016/03.bmp
+016 img/016/04.bmp
+016 img/016/05.bmp
+016 img/016/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+016 img/016/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+016 img/016/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+016 img/016/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+016 img/016/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+017 img/017/01.bmp
+017 img/017/02.bmp
+017 img/017/03.bmp
+017 img/017/04.bmp
+017 img/017/05.bmp
+017 img/017/06.bmp
+017 img/017/07.bmp
+017 img/017/08.bmp
+017 img/017/09.bmp
+017 img/017/10.bmp
+018 img/018/01.bmp
+018 img/018/02.bmp
+018 img/018/03.bmp
+018 img/018/04.bmp
+018 img/018/05.bmp
+018 img/018/06.bmp
+018 img/018/07.bmp
+018 img/018/08.bmp
+018 img/018/09.bmp
+018 img/018/10.bmp
+019 img/019/01.bmp
+019 img/019/02.bmp
+019 img/019/03.bmp
+	reduce() of empty sequence with no initial value
+019 img/019/04.bmp
+	reduce() of empty sequence with no initial value
+019 img/019/05.bmp
+	reduce() of empty sequence with no initial value
+019 img/019/06.bmp
+	reduce() of empty sequence with no initial value
+019 img/019/07.bmp
+	reduce() of empty sequence with no initial value
+019 img/019/08.bmp
+	reduce() of empty sequence with no initial value
+019 img/019/09.bmp
+	reduce() of empty sequence with no initial value
+019 img/019/10.bmp
+	reduce() of empty sequence with no initial value
+020 img/020/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+020 img/020/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+020 img/020/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+020 img/020/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+020 img/020/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+020 img/020/06.bmp
+020 img/020/07.bmp
+020 img/020/08.bmp
+020 img/020/09.bmp
+020 img/020/10.bmp
+021 img/021/01.bmp
+021 img/021/02.bmp
+021 img/021/03.bmp
+021 img/021/04.bmp
+021 img/021/05.bmp
+021 img/021/06.bmp
+021 img/021/07.bmp
+021 img/021/08.bmp
+021 img/021/09.bmp
+021 img/021/10.bmp
+022 img/022/01.bmp
+022 img/022/02.bmp
+022 img/022/03.bmp
+022 img/022/04.bmp
+022 img/022/05.bmp
+022 img/022/06.bmp
+022 img/022/07.bmp
+022 img/022/08.bmp
+022 img/022/09.bmp
+022 img/022/10.bmp
+023 img/023/01.bmp
+023 img/023/02.bmp
+023 img/023/03.bmp
+023 img/023/04.bmp
+023 img/023/05.bmp
+023 img/023/06.bmp
+023 img/023/07.bmp
+023 img/023/08.bmp
+023 img/023/09.bmp
+023 img/023/10.bmp
+024 img/024/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+024 img/024/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+024 img/024/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+024 img/024/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+024 img/024/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+024 img/024/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+024 img/024/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+024 img/024/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+024 img/024/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+024 img/024/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+025 img/025/01.bmp
+025 img/025/02.bmp
+025 img/025/03.bmp
+025 img/025/04.bmp
+025 img/025/05.bmp
+025 img/025/06.bmp
+025 img/025/07.bmp
+025 img/025/08.bmp
+025 img/025/09.bmp
+025 img/025/10.bmp
+026 img/026/01.bmp
+026 img/026/02.bmp
+026 img/026/03.bmp
+026 img/026/04.bmp
+026 img/026/05.bmp
+026 img/026/06.bmp
+026 img/026/07.bmp
+026 img/026/08.bmp
+026 img/026/09.bmp
+026 img/026/10.bmp
+027 img/027/01.bmp
+027 img/027/02.bmp
+027 img/027/03.bmp
+027 img/027/04.bmp
+027 img/027/05.bmp
+027 img/027/06.bmp
+027 img/027/07.bmp
+027 img/027/08.bmp
+027 img/027/09.bmp
+027 img/027/10.bmp
+028 img/028/01.bmp
+028 img/028/02.bmp
+028 img/028/03.bmp
+028 img/028/04.bmp
+028 img/028/05.bmp
+028 img/028/06.bmp
+028 img/028/07.bmp
+028 img/028/08.bmp
+028 img/028/09.bmp
+028 img/028/10.bmp
+029 img/029/01.bmp
+029 img/029/02.bmp
+029 img/029/03.bmp
+029 img/029/04.bmp
+029 img/029/05.bmp
+029 img/029/06.bmp
+029 img/029/07.bmp
+029 img/029/08.bmp
+029 img/029/09.bmp
+029 img/029/10.bmp
+030 img/030/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+030 img/030/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+030 img/030/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+030 img/030/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+030 img/030/05.bmp
+030 img/030/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+030 img/030/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+030 img/030/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+030 img/030/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+030 img/030/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+031 img/031/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+031 img/031/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+031 img/031/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+031 img/031/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+031 img/031/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+031 img/031/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+031 img/031/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+031 img/031/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+031 img/031/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+031 img/031/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+032 img/032/01.bmp
+032 img/032/02.bmp
+032 img/032/03.bmp
+032 img/032/04.bmp
+032 img/032/05.bmp
+032 img/032/06.bmp
+032 img/032/07.bmp
+032 img/032/08.bmp
+032 img/032/09.bmp
+032 img/032/10.bmp
+033 img/033/01.bmp
+033 img/033/02.bmp
+033 img/033/03.bmp
+033 img/033/04.bmp
+033 img/033/05.bmp
+033 img/033/06.bmp
+033 img/033/07.bmp
+033 img/033/08.bmp
+033 img/033/09.bmp
+033 img/033/10.bmp
+034 img/034/01.bmp
+034 img/034/02.bmp
+034 img/034/03.bmp
+034 img/034/04.bmp
+034 img/034/05.bmp
+034 img/034/06.bmp
+034 img/034/07.bmp
+034 img/034/08.bmp
+034 img/034/09.bmp
+034 img/034/10.bmp
+035 img/035/01.bmp
+035 img/035/02.bmp
+035 img/035/03.bmp
+035 img/035/04.bmp
+035 img/035/05.bmp
+035 img/035/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+035 img/035/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+035 img/035/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+035 img/035/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+035 img/035/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+036 img/036/01.bmp
+036 img/036/02.bmp
+036 img/036/03.bmp
+036 img/036/04.bmp
+036 img/036/05.bmp
+	reduce() of empty sequence with no initial value
+036 img/036/06.bmp
+036 img/036/07.bmp
+036 img/036/08.bmp
+036 img/036/09.bmp
+036 img/036/10.bmp
+037 img/037/01.bmp
+037 img/037/02.bmp
+037 img/037/03.bmp
+037 img/037/04.bmp
+037 img/037/05.bmp
+037 img/037/06.bmp
+037 img/037/07.bmp
+037 img/037/08.bmp
+037 img/037/09.bmp
+037 img/037/10.bmp
+038 img/038/01.bmp
+038 img/038/02.bmp
+038 img/038/03.bmp
+038 img/038/04.bmp
+038 img/038/05.bmp
+038 img/038/06.bmp
+038 img/038/07.bmp
+038 img/038/08.bmp
+038 img/038/09.bmp
+038 img/038/10.bmp
+039 img/039/01.bmp
+039 img/039/02.bmp
+039 img/039/03.bmp
+039 img/039/04.bmp
+039 img/039/05.bmp
+039 img/039/06.bmp
+039 img/039/07.bmp
+039 img/039/08.bmp
+039 img/039/09.bmp
+039 img/039/10.bmp
+040 img/040/01.bmp
+040 img/040/02.bmp
+040 img/040/03.bmp
+040 img/040/04.bmp
+040 img/040/05.bmp
+040 img/040/06.bmp
+040 img/040/07.bmp
+040 img/040/08.bmp
+040 img/040/09.bmp
+040 img/040/10.bmp
+041 img/041/01.bmp
+041 img/041/02.bmp
+041 img/041/03.bmp
+041 img/041/04.bmp
+041 img/041/05.bmp
+041 img/041/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+041 img/041/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+041 img/041/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+041 img/041/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+041 img/041/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+042 img/042/01.bmp
+042 img/042/02.bmp
+042 img/042/03.bmp
+042 img/042/04.bmp
+042 img/042/05.bmp
+042 img/042/06.bmp
+042 img/042/07.bmp
+042 img/042/08.bmp
+042 img/042/09.bmp
+042 img/042/10.bmp
+043 img/043/01.bmp
+043 img/043/02.bmp
+043 img/043/03.bmp
+043 img/043/04.bmp
+043 img/043/05.bmp
+043 img/043/06.bmp
+043 img/043/07.bmp
+043 img/043/08.bmp
+043 img/043/09.bmp
+043 img/043/10.bmp
+044 img/044/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+044 img/044/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+044 img/044/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+044 img/044/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+044 img/044/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+044 img/044/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+044 img/044/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+044 img/044/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+044 img/044/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+044 img/044/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+045 img/045/01.bmp
+045 img/045/02.bmp
+045 img/045/03.bmp
+045 img/045/04.bmp
+045 img/045/05.bmp
+045 img/045/06.bmp
+045 img/045/07.bmp
+045 img/045/08.bmp
+045 img/045/09.bmp
+045 img/045/10.bmp
+046 img/046/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+046 img/046/02.bmp
+046 img/046/03.bmp
+046 img/046/04.bmp
+046 img/046/05.bmp
+046 img/046/06.bmp
+046 img/046/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+046 img/046/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+046 img/046/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+046 img/046/10.bmp
+047 img/047/01.bmp
+047 img/047/02.bmp
+047 img/047/03.bmp
+047 img/047/04.bmp
+047 img/047/05.bmp
+047 img/047/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+047 img/047/07.bmp
+047 img/047/08.bmp
+047 img/047/09.bmp
+047 img/047/10.bmp
+048 img/048/01.bmp
+048 img/048/02.bmp
+048 img/048/03.bmp
+048 img/048/04.bmp
+048 img/048/05.bmp
+048 img/048/06.bmp
+048 img/048/07.bmp
+048 img/048/08.bmp
+048 img/048/09.bmp
+	reduce() of empty sequence with no initial value
+048 img/048/10.bmp
+049 img/049/01.bmp
+049 img/049/02.bmp
+049 img/049/03.bmp
+049 img/049/04.bmp
+049 img/049/05.bmp
+049 img/049/06.bmp
+049 img/049/07.bmp
+049 img/049/08.bmp
+049 img/049/09.bmp
+049 img/049/10.bmp
+050 img/050/01.bmp
+050 img/050/02.bmp
+050 img/050/03.bmp
+050 img/050/04.bmp
+050 img/050/05.bmp
+050 img/050/06.bmp
+050 img/050/07.bmp
+050 img/050/08.bmp
+050 img/050/09.bmp
+050 img/050/10.bmp
+051 img/051/01.bmp
+051 img/051/02.bmp
+051 img/051/03.bmp
+051 img/051/04.bmp
+051 img/051/05.bmp
+051 img/051/06.bmp
+051 img/051/07.bmp
+051 img/051/08.bmp
+051 img/051/09.bmp
+	reduce() of empty sequence with no initial value
+051 img/051/10.bmp
+	reduce() of empty sequence with no initial value
+052 img/052/01.bmp
+052 img/052/02.bmp
+052 img/052/03.bmp
+052 img/052/04.bmp
+052 img/052/05.bmp
+052 img/052/06.bmp
+052 img/052/07.bmp
+052 img/052/08.bmp
+052 img/052/09.bmp
+052 img/052/10.bmp
+053 img/053/01.bmp
+053 img/053/02.bmp
+053 img/053/03.bmp
+053 img/053/04.bmp
+053 img/053/05.bmp
+053 img/053/06.bmp
+053 img/053/07.bmp
+053 img/053/08.bmp
+053 img/053/09.bmp
+053 img/053/10.bmp
+054 img/054/01.bmp
+054 img/054/02.bmp
+054 img/054/03.bmp
+054 img/054/04.bmp
+054 img/054/05.bmp
+054 img/054/06.bmp
+054 img/054/07.bmp
+054 img/054/08.bmp
+054 img/054/09.bmp
+054 img/054/10.bmp
+055 img/055/01.bmp
+055 img/055/02.bmp
+055 img/055/03.bmp
+055 img/055/04.bmp
+055 img/055/05.bmp
+055 img/055/06.bmp
+055 img/055/07.bmp
+055 img/055/08.bmp
+055 img/055/09.bmp
+055 img/055/10.bmp
+056 img/056/01.bmp
+056 img/056/02.bmp
+056 img/056/03.bmp
+056 img/056/04.bmp
+056 img/056/05.bmp
+056 img/056/06.bmp
+056 img/056/07.bmp
+056 img/056/08.bmp
+056 img/056/09.bmp
+056 img/056/10.bmp
+057 img/057/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+057 img/057/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+057 img/057/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+057 img/057/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+057 img/057/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+057 img/057/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+057 img/057/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+057 img/057/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+057 img/057/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+057 img/057/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+058 img/058/01.bmp
+058 img/058/02.bmp
+058 img/058/03.bmp
+058 img/058/04.bmp
+058 img/058/05.bmp
+058 img/058/06.bmp
+058 img/058/07.bmp
+058 img/058/08.bmp
+058 img/058/09.bmp
+058 img/058/10.bmp
+059 img/059/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+059 img/059/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+059 img/059/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+059 img/059/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+059 img/059/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+059 img/059/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+059 img/059/07.bmp
+	reduce() of empty sequence with no initial value
+059 img/059/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+059 img/059/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+059 img/059/10.bmp
+	reduce() of empty sequence with no initial value
+060 img/060/01.bmp
+060 img/060/02.bmp
+060 img/060/03.bmp
+060 img/060/04.bmp
+060 img/060/05.bmp
+060 img/060/06.bmp
+060 img/060/07.bmp
+060 img/060/08.bmp
+060 img/060/09.bmp
+060 img/060/10.bmp
+061 img/061/01.bmp
+061 img/061/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+061 img/061/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+061 img/061/04.bmp
+061 img/061/05.bmp
+061 img/061/06.bmp
+061 img/061/07.bmp
+061 img/061/08.bmp
+061 img/061/09.bmp
+061 img/061/10.bmp
+062 img/062/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+062 img/062/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+062 img/062/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+062 img/062/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+062 img/062/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+062 img/062/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+062 img/062/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+062 img/062/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+062 img/062/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+062 img/062/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+063 img/063/01.bmp
+063 img/063/02.bmp
+063 img/063/03.bmp
+063 img/063/04.bmp
+063 img/063/05.bmp
+063 img/063/06.bmp
+063 img/063/07.bmp
+063 img/063/08.bmp
+063 img/063/09.bmp
+063 img/063/10.bmp
+064 img/064/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+064 img/064/02.bmp
+064 img/064/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+064 img/064/04.bmp
+064 img/064/05.bmp
+064 img/064/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+064 img/064/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+064 img/064/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+064 img/064/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+064 img/064/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+065 img/065/01.bmp
+065 img/065/02.bmp
+065 img/065/03.bmp
+065 img/065/04.bmp
+065 img/065/05.bmp
+065 img/065/06.bmp
+065 img/065/07.bmp
+065 img/065/08.bmp
+065 img/065/09.bmp
+065 img/065/10.bmp
+066 img/066/01.bmp
+066 img/066/02.bmp
+066 img/066/03.bmp
+066 img/066/04.bmp
+066 img/066/05.bmp
+066 img/066/06.bmp
+066 img/066/07.bmp
+066 img/066/08.bmp
+066 img/066/09.bmp
+066 img/066/10.bmp
+067 img/067/01.bmp
+067 img/067/02.bmp
+067 img/067/03.bmp
+067 img/067/04.bmp
+067 img/067/05.bmp
+067 img/067/06.bmp
+067 img/067/07.bmp
+067 img/067/08.bmp
+067 img/067/09.bmp
+067 img/067/10.bmp
+068 img/068/01.bmp
+068 img/068/02.bmp
+068 img/068/03.bmp
+068 img/068/04.bmp
+068 img/068/05.bmp
+068 img/068/06.bmp
+068 img/068/07.bmp
+068 img/068/08.bmp
+068 img/068/09.bmp
+068 img/068/10.bmp
+069 img/069/01.bmp
+069 img/069/02.bmp
+069 img/069/03.bmp
+069 img/069/04.bmp
+069 img/069/05.bmp
+069 img/069/06.bmp
+069 img/069/07.bmp
+069 img/069/08.bmp
+069 img/069/09.bmp
+069 img/069/10.bmp
+070 img/070/01.bmp
+070 img/070/02.bmp
+070 img/070/03.bmp
+070 img/070/04.bmp
+070 img/070/05.bmp
+070 img/070/06.bmp
+070 img/070/07.bmp
+070 img/070/08.bmp
+070 img/070/09.bmp
+070 img/070/10.bmp
+071 img/071/01.bmp
+071 img/071/02.bmp
+071 img/071/03.bmp
+071 img/071/04.bmp
+071 img/071/05.bmp
+071 img/071/06.bmp
+071 img/071/07.bmp
+071 img/071/08.bmp
+071 img/071/09.bmp
+071 img/071/10.bmp
+072 img/072/01.bmp
+072 img/072/02.bmp
+072 img/072/03.bmp
+072 img/072/04.bmp
+072 img/072/05.bmp
+072 img/072/06.bmp
+072 img/072/07.bmp
+072 img/072/08.bmp
+072 img/072/09.bmp
+072 img/072/10.bmp
+073 img/073/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+073 img/073/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+073 img/073/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+073 img/073/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+073 img/073/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+073 img/073/06.bmp
+	reduce() of empty sequence with no initial value
+073 img/073/07.bmp
+	reduce() of empty sequence with no initial value
+073 img/073/08.bmp
+073 img/073/09.bmp
+073 img/073/10.bmp
+	reduce() of empty sequence with no initial value
+074 img/074/01.bmp
+	reduce() of empty sequence with no initial value
+074 img/074/02.bmp
+074 img/074/03.bmp
+	reduce() of empty sequence with no initial value
+074 img/074/04.bmp
+074 img/074/05.bmp
+074 img/074/06.bmp
+	reduce() of empty sequence with no initial value
+074 img/074/07.bmp
+074 img/074/08.bmp
+074 img/074/09.bmp
+074 img/074/10.bmp
+075 img/075/01.bmp
+075 img/075/02.bmp
+075 img/075/03.bmp
+075 img/075/04.bmp
+075 img/075/05.bmp
+075 img/075/06.bmp
+075 img/075/07.bmp
+075 img/075/08.bmp
+075 img/075/09.bmp
+075 img/075/10.bmp
+076 img/076/01.bmp
+	reduce() of empty sequence with no initial value
+076 img/076/02.bmp
+	reduce() of empty sequence with no initial value
+076 img/076/03.bmp
+	reduce() of empty sequence with no initial value
+076 img/076/04.bmp
+	reduce() of empty sequence with no initial value
+076 img/076/05.bmp
+	reduce() of empty sequence with no initial value
+076 img/076/06.bmp
+	invalid index into a 0-size array
+076 img/076/07.bmp
+	reduce() of empty sequence with no initial value
+076 img/076/08.bmp
+	reduce() of empty sequence with no initial value
+076 img/076/09.bmp
+	reduce() of empty sequence with no initial value
+076 img/076/10.bmp
+077 img/077/01.bmp
+077 img/077/02.bmp
+077 img/077/03.bmp
+077 img/077/04.bmp
+077 img/077/05.bmp
+077 img/077/06.bmp
+077 img/077/07.bmp
+077 img/077/08.bmp
+077 img/077/09.bmp
+077 img/077/10.bmp
+078 img/078/01.bmp
+078 img/078/02.bmp
+078 img/078/03.bmp
+078 img/078/04.bmp
+078 img/078/05.bmp
+078 img/078/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+078 img/078/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+078 img/078/08.bmp
+078 img/078/09.bmp
+078 img/078/10.bmp
+079 img/079/01.bmp
+079 img/079/02.bmp
+079 img/079/03.bmp
+079 img/079/04.bmp
+079 img/079/05.bmp
+079 img/079/06.bmp
+079 img/079/07.bmp
+079 img/079/08.bmp
+079 img/079/09.bmp
+079 img/079/10.bmp
+080 img/080/01.bmp
+080 img/080/02.bmp
+080 img/080/03.bmp
+080 img/080/04.bmp
+080 img/080/05.bmp
+080 img/080/06.bmp
+080 img/080/07.bmp
+080 img/080/08.bmp
+080 img/080/09.bmp
+080 img/080/10.bmp
+081 img/081/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+081 img/081/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+081 img/081/03.bmp
+081 img/081/04.bmp
+081 img/081/05.bmp
+081 img/081/06.bmp
+081 img/081/07.bmp
+081 img/081/08.bmp
+081 img/081/09.bmp
+081 img/081/10.bmp
+082 img/082/01.bmp
+082 img/082/02.bmp
+082 img/082/03.bmp
+082 img/082/04.bmp
+082 img/082/05.bmp
+082 img/082/06.bmp
+082 img/082/07.bmp
+082 img/082/08.bmp
+082 img/082/09.bmp
+082 img/082/10.bmp
+083 img/083/01.bmp
+083 img/083/02.bmp
+083 img/083/03.bmp
+083 img/083/04.bmp
+083 img/083/05.bmp
+083 img/083/06.bmp
+083 img/083/07.bmp
+083 img/083/08.bmp
+083 img/083/09.bmp
+083 img/083/10.bmp
+084 img/084/01.bmp
+084 img/084/02.bmp
+084 img/084/03.bmp
+084 img/084/04.bmp
+084 img/084/05.bmp
+084 img/084/06.bmp
+084 img/084/07.bmp
+084 img/084/08.bmp
+084 img/084/09.bmp
+084 img/084/10.bmp
+085 img/085/01.bmp
+085 img/085/02.bmp
+085 img/085/03.bmp
+085 img/085/04.bmp
+085 img/085/05.bmp
+085 img/085/06.bmp
+085 img/085/07.bmp
+085 img/085/08.bmp
+085 img/085/09.bmp
+085 img/085/10.bmp
+086 img/086/01.bmp
+086 img/086/02.bmp
+086 img/086/03.bmp
+086 img/086/04.bmp
+086 img/086/05.bmp
+086 img/086/06.bmp
+	reduce() of empty sequence with no initial value
+086 img/086/07.bmp
+	reduce() of empty sequence with no initial value
+086 img/086/08.bmp
+086 img/086/09.bmp
+	reduce() of empty sequence with no initial value
+086 img/086/10.bmp
+	reduce() of empty sequence with no initial value
+087 img/087/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+087 img/087/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+087 img/087/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+087 img/087/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+087 img/087/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+087 img/087/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+087 img/087/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+087 img/087/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+087 img/087/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+087 img/087/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+088 img/088/01.bmp
+088 img/088/02.bmp
+088 img/088/03.bmp
+088 img/088/04.bmp
+088 img/088/05.bmp
+088 img/088/06.bmp
+088 img/088/07.bmp
+088 img/088/08.bmp
+088 img/088/09.bmp
+088 img/088/10.bmp
+089 img/089/01.bmp
+089 img/089/02.bmp
+089 img/089/03.bmp
+089 img/089/04.bmp
+089 img/089/05.bmp
+089 img/089/06.bmp
+089 img/089/07.bmp
+089 img/089/08.bmp
+089 img/089/09.bmp
+089 img/089/10.bmp
+090 img/090/01.bmp
+090 img/090/02.bmp
+090 img/090/03.bmp
+090 img/090/04.bmp
+090 img/090/05.bmp
+090 img/090/06.bmp
+090 img/090/07.bmp
+090 img/090/08.bmp
+	reduce() of empty sequence with no initial value
+090 img/090/09.bmp
+090 img/090/10.bmp
+091 img/091/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+091 img/091/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+091 img/091/03.bmp
+091 img/091/04.bmp
+091 img/091/05.bmp
+091 img/091/06.bmp
+091 img/091/07.bmp
+091 img/091/08.bmp
+091 img/091/09.bmp
+091 img/091/10.bmp
+092 img/092/01.bmp
+092 img/092/02.bmp
+092 img/092/03.bmp
+092 img/092/04.bmp
+092 img/092/05.bmp
+092 img/092/06.bmp
+092 img/092/07.bmp
+092 img/092/08.bmp
+092 img/092/09.bmp
+092 img/092/10.bmp
+093 img/093/01.bmp
+093 img/093/02.bmp
+093 img/093/03.bmp
+093 img/093/04.bmp
+093 img/093/05.bmp
+093 img/093/06.bmp
+	reduce() of empty sequence with no initial value
+093 img/093/07.bmp
+093 img/093/08.bmp
+093 img/093/09.bmp
+093 img/093/10.bmp
+094 img/094/01.bmp
+094 img/094/02.bmp
+094 img/094/03.bmp
+094 img/094/04.bmp
+094 img/094/05.bmp
+094 img/094/06.bmp
+094 img/094/07.bmp
+094 img/094/08.bmp
+094 img/094/09.bmp
+094 img/094/10.bmp
+095 img/095/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+095 img/095/02.bmp
+095 img/095/03.bmp
+095 img/095/04.bmp
+095 img/095/05.bmp
+095 img/095/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+095 img/095/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+095 img/095/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+095 img/095/09.bmp
+095 img/095/10.bmp
+096 img/096/01.bmp
+096 img/096/02.bmp
+096 img/096/03.bmp
+096 img/096/04.bmp
+096 img/096/05.bmp
+096 img/096/06.bmp
+096 img/096/07.bmp
+096 img/096/08.bmp
+096 img/096/09.bmp
+096 img/096/10.bmp
+097 img/097/01.bmp
+097 img/097/02.bmp
+097 img/097/03.bmp
+097 img/097/04.bmp
+097 img/097/05.bmp
+097 img/097/06.bmp
+	reduce() of empty sequence with no initial value
+097 img/097/07.bmp
+	reduce() of empty sequence with no initial value
+097 img/097/08.bmp
+	reduce() of empty sequence with no initial value
+097 img/097/09.bmp
+	reduce() of empty sequence with no initial value
+097 img/097/10.bmp
+	reduce() of empty sequence with no initial value
+098 img/098/01.bmp
+098 img/098/02.bmp
+098 img/098/03.bmp
+098 img/098/04.bmp
+098 img/098/05.bmp
+098 img/098/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+098 img/098/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+098 img/098/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+098 img/098/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+098 img/098/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+099 img/099/01.bmp
+099 img/099/02.bmp
+099 img/099/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+099 img/099/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+099 img/099/05.bmp
+099 img/099/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+099 img/099/07.bmp
+099 img/099/08.bmp
+099 img/099/09.bmp
+099 img/099/10.bmp
+100 img/100/01.bmp
+100 img/100/02.bmp
+100 img/100/03.bmp
+100 img/100/04.bmp
+100 img/100/05.bmp
+100 img/100/06.bmp
+100 img/100/07.bmp
+100 img/100/08.bmp
+100 img/100/09.bmp
+100 img/100/10.bmp
+101 img/101/01.bmp
+101 img/101/02.bmp
+101 img/101/03.bmp
+101 img/101/04.bmp
+101 img/101/05.bmp
+101 img/101/06.bmp
+101 img/101/07.bmp
+101 img/101/08.bmp
+101 img/101/09.bmp
+101 img/101/10.bmp
+102 img/102/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+102 img/102/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+102 img/102/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+102 img/102/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+102 img/102/05.bmp
+102 img/102/06.bmp
+102 img/102/07.bmp
+102 img/102/08.bmp
+102 img/102/09.bmp
+102 img/102/10.bmp
+103 img/103/01.bmp
+103 img/103/02.bmp
+103 img/103/03.bmp
+103 img/103/04.bmp
+103 img/103/05.bmp
+103 img/103/06.bmp
+103 img/103/07.bmp
+103 img/103/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+103 img/103/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+103 img/103/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+104 img/104/01.bmp
+104 img/104/02.bmp
+104 img/104/03.bmp
+104 img/104/04.bmp
+104 img/104/05.bmp
+104 img/104/06.bmp
+104 img/104/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+104 img/104/08.bmp
+104 img/104/09.bmp
+104 img/104/10.bmp
+105 img/105/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+105 img/105/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+105 img/105/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+105 img/105/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+105 img/105/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+105 img/105/06.bmp
+105 img/105/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+105 img/105/08.bmp
+105 img/105/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+105 img/105/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+106 img/106/01.bmp
+106 img/106/02.bmp
+106 img/106/03.bmp
+106 img/106/04.bmp
+106 img/106/05.bmp
+106 img/106/06.bmp
+106 img/106/07.bmp
+106 img/106/08.bmp
+106 img/106/09.bmp
+106 img/106/10.bmp
+107 img/107/01.bmp
+107 img/107/02.bmp
+107 img/107/03.bmp
+107 img/107/04.bmp
+107 img/107/05.bmp
+107 img/107/06.bmp
+107 img/107/07.bmp
+107 img/107/08.bmp
+107 img/107/09.bmp
+107 img/107/10.bmp
+108 img/108/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+108 img/108/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+108 img/108/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+108 img/108/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+108 img/108/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+108 img/108/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+108 img/108/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+108 img/108/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+108 img/108/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+108 img/108/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+109 img/109/01.bmp
+109 img/109/02.bmp
+	reduce() of empty sequence with no initial value
+109 img/109/03.bmp
+	reduce() of empty sequence with no initial value
+109 img/109/04.bmp
+109 img/109/05.bmp
+	reduce() of empty sequence with no initial value
+109 img/109/06.bmp
+109 img/109/07.bmp
+109 img/109/08.bmp
+	reduce() of empty sequence with no initial value
+109 img/109/09.bmp
+109 img/109/10.bmp
+	reduce() of empty sequence with no initial value
+110 img/110/01.bmp
+110 img/110/02.bmp
+110 img/110/03.bmp
+110 img/110/04.bmp
+110 img/110/05.bmp
+110 img/110/06.bmp
+110 img/110/07.bmp
+110 img/110/08.bmp
+110 img/110/09.bmp
+110 img/110/10.bmp
+111 img/111/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+111 img/111/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+111 img/111/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+111 img/111/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+111 img/111/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+111 img/111/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+111 img/111/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+111 img/111/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+111 img/111/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+111 img/111/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+112 img/112/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+112 img/112/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+112 img/112/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+112 img/112/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+112 img/112/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+112 img/112/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+112 img/112/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+112 img/112/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+112 img/112/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+112 img/112/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+113 img/113/01.bmp
+113 img/113/02.bmp
+113 img/113/03.bmp
+113 img/113/04.bmp
+113 img/113/05.bmp
+113 img/113/06.bmp
+113 img/113/07.bmp
+113 img/113/08.bmp
+	invalid index into a 0-size array
+113 img/113/09.bmp
+113 img/113/10.bmp
+114 img/114/01.bmp
+114 img/114/02.bmp
+114 img/114/03.bmp
+114 img/114/04.bmp
+114 img/114/05.bmp
+114 img/114/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+114 img/114/07.bmp
+114 img/114/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+114 img/114/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+114 img/114/10.bmp
+115 img/115/01.bmp
+115 img/115/02.bmp
+115 img/115/03.bmp
+115 img/115/04.bmp
+115 img/115/05.bmp
+115 img/115/06.bmp
+115 img/115/07.bmp
+115 img/115/08.bmp
+115 img/115/09.bmp
+115 img/115/10.bmp
+116 img/116/01.bmp
+116 img/116/02.bmp
+116 img/116/03.bmp
+116 img/116/04.bmp
+116 img/116/05.bmp
+116 img/116/06.bmp
+116 img/116/07.bmp
+116 img/116/08.bmp
+116 img/116/09.bmp
+116 img/116/10.bmp
+117 img/117/01.bmp
+117 img/117/02.bmp
+117 img/117/03.bmp
+117 img/117/04.bmp
+117 img/117/05.bmp
+117 img/117/06.bmp
+117 img/117/07.bmp
+117 img/117/08.bmp
+117 img/117/09.bmp
+117 img/117/10.bmp
+118 img/118/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+118 img/118/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+118 img/118/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+118 img/118/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+118 img/118/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+118 img/118/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+118 img/118/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+118 img/118/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+118 img/118/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+118 img/118/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+119 img/119/01.bmp
+119 img/119/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+119 img/119/03.bmp
+119 img/119/04.bmp
+119 img/119/05.bmp
+119 img/119/06.bmp
+119 img/119/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+119 img/119/08.bmp
+119 img/119/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+119 img/119/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+120 img/120/01.bmp
+120 img/120/02.bmp
+120 img/120/03.bmp
+120 img/120/04.bmp
+120 img/120/05.bmp
+120 img/120/06.bmp
+120 img/120/07.bmp
+120 img/120/08.bmp
+120 img/120/09.bmp
+120 img/120/10.bmp
+121 img/121/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+121 img/121/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+121 img/121/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+121 img/121/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+121 img/121/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+121 img/121/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+121 img/121/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+121 img/121/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+121 img/121/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+121 img/121/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+122 img/122/01.bmp
+122 img/122/02.bmp
+122 img/122/03.bmp
+122 img/122/04.bmp
+122 img/122/05.bmp
+122 img/122/06.bmp
+122 img/122/07.bmp
+122 img/122/08.bmp
+122 img/122/09.bmp
+122 img/122/10.bmp
+123 img/123/01.bmp
+123 img/123/02.bmp
+123 img/123/03.bmp
+123 img/123/04.bmp
+123 img/123/05.bmp
+123 img/123/06.bmp
+123 img/123/07.bmp
+123 img/123/08.bmp
+123 img/123/09.bmp
+123 img/123/10.bmp
+124 img/124/01.bmp
+124 img/124/02.bmp
+124 img/124/03.bmp
+124 img/124/04.bmp
+124 img/124/05.bmp
+124 img/124/06.bmp
+124 img/124/07.bmp
+124 img/124/08.bmp
+124 img/124/09.bmp
+124 img/124/10.bmp
+125 img/125/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+125 img/125/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+125 img/125/03.bmp
+125 img/125/04.bmp
+125 img/125/05.bmp
+125 img/125/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+125 img/125/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+125 img/125/08.bmp
+125 img/125/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+125 img/125/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+126 img/126/01.bmp
+126 img/126/02.bmp
+126 img/126/03.bmp
+126 img/126/04.bmp
+126 img/126/05.bmp
+126 img/126/06.bmp
+126 img/126/07.bmp
+126 img/126/08.bmp
+126 img/126/09.bmp
+126 img/126/10.bmp
+127 img/127/01.bmp
+127 img/127/02.bmp
+127 img/127/03.bmp
+127 img/127/04.bmp
+127 img/127/05.bmp
+127 img/127/06.bmp
+127 img/127/07.bmp
+127 img/127/08.bmp
+127 img/127/09.bmp
+127 img/127/10.bmp
+128 img/128/01.bmp
+128 img/128/02.bmp
+128 img/128/03.bmp
+128 img/128/04.bmp
+128 img/128/05.bmp
+128 img/128/06.bmp
+128 img/128/07.bmp
+128 img/128/08.bmp
+128 img/128/09.bmp
+128 img/128/10.bmp
+129 img/129/01.bmp
+129 img/129/02.bmp
+129 img/129/03.bmp
+129 img/129/04.bmp
+129 img/129/05.bmp
+129 img/129/06.bmp
+129 img/129/07.bmp
+129 img/129/08.bmp
+129 img/129/09.bmp
+129 img/129/10.bmp
+130 img/130/01.bmp
+130 img/130/02.bmp
+130 img/130/03.bmp
+130 img/130/04.bmp
+130 img/130/05.bmp
+130 img/130/06.bmp
+130 img/130/07.bmp
+130 img/130/08.bmp
+130 img/130/09.bmp
+130 img/130/10.bmp
+131 img/131/01.bmp
+131 img/131/02.bmp
+131 img/131/03.bmp
+131 img/131/04.bmp
+131 img/131/05.bmp
+131 img/131/06.bmp
+131 img/131/07.bmp
+131 img/131/08.bmp
+131 img/131/09.bmp
+131 img/131/10.bmp
+132 img/132/01.bmp
+132 img/132/02.bmp
+132 img/132/03.bmp
+132 img/132/04.bmp
+132 img/132/05.bmp
+132 img/132/06.bmp
+132 img/132/07.bmp
+132 img/132/08.bmp
+132 img/132/09.bmp
+132 img/132/10.bmp
+133 img/133/01.bmp
+133 img/133/02.bmp
+133 img/133/03.bmp
+133 img/133/04.bmp
+133 img/133/05.bmp
+133 img/133/06.bmp
+133 img/133/07.bmp
+133 img/133/08.bmp
+133 img/133/09.bmp
+133 img/133/10.bmp
+134 img/134/01.bmp
+	reduce() of empty sequence with no initial value
+134 img/134/02.bmp
+	reduce() of empty sequence with no initial value
+134 img/134/03.bmp
+	reduce() of empty sequence with no initial value
+134 img/134/04.bmp
+	reduce() of empty sequence with no initial value
+134 img/134/05.bmp
+134 img/134/06.bmp
+	reduce() of empty sequence with no initial value
+134 img/134/07.bmp
+	reduce() of empty sequence with no initial value
+134 img/134/08.bmp
+	index 2 is out of bounds for axis 0 with size 2
+134 img/134/09.bmp
+	reduce() of empty sequence with no initial value
+134 img/134/10.bmp
+	invalid index into a 0-size array
+135 img/135/01.bmp
+135 img/135/02.bmp
+135 img/135/03.bmp
+135 img/135/04.bmp
+135 img/135/05.bmp
+135 img/135/06.bmp
+135 img/135/07.bmp
+135 img/135/08.bmp
+135 img/135/09.bmp
+135 img/135/10.bmp
+136 img/136/01.bmp
+	reduce() of empty sequence with no initial value
+136 img/136/02.bmp
+136 img/136/03.bmp
+136 img/136/04.bmp
+	reduce() of empty sequence with no initial value
+136 img/136/05.bmp
+	reduce() of empty sequence with no initial value
+136 img/136/06.bmp
+	reduce() of empty sequence with no initial value
+136 img/136/07.bmp
+	reduce() of empty sequence with no initial value
+136 img/136/08.bmp
+	reduce() of empty sequence with no initial value
+136 img/136/09.bmp
+	reduce() of empty sequence with no initial value
+136 img/136/10.bmp
+137 img/137/01.bmp
+137 img/137/02.bmp
+137 img/137/03.bmp
+137 img/137/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+137 img/137/05.bmp
+137 img/137/06.bmp
+137 img/137/07.bmp
+137 img/137/08.bmp
+137 img/137/09.bmp
+137 img/137/10.bmp
+138 img/138/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+138 img/138/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+138 img/138/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+138 img/138/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+138 img/138/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+138 img/138/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+138 img/138/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+138 img/138/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+138 img/138/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+138 img/138/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+139 img/139/01.bmp
+139 img/139/02.bmp
+139 img/139/03.bmp
+139 img/139/04.bmp
+139 img/139/05.bmp
+139 img/139/06.bmp
+139 img/139/07.bmp
+139 img/139/08.bmp
+139 img/139/09.bmp
+139 img/139/10.bmp
+140 img/140/01.bmp
+140 img/140/02.bmp
+140 img/140/03.bmp
+140 img/140/04.bmp
+140 img/140/05.bmp
+140 img/140/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+140 img/140/07.bmp
+140 img/140/08.bmp
+140 img/140/09.bmp
+140 img/140/10.bmp
+141 img/141/01.bmp
+141 img/141/02.bmp
+141 img/141/03.bmp
+141 img/141/04.bmp
+141 img/141/05.bmp
+141 img/141/06.bmp
+141 img/141/07.bmp
+141 img/141/08.bmp
+141 img/141/09.bmp
+141 img/141/10.bmp
+142 img/142/01.bmp
+142 img/142/02.bmp
+142 img/142/03.bmp
+142 img/142/04.bmp
+142 img/142/05.bmp
+142 img/142/06.bmp
+142 img/142/07.bmp
+142 img/142/08.bmp
+142 img/142/09.bmp
+142 img/142/10.bmp
+143 img/143/01.bmp
+	reduce() of empty sequence with no initial value
+143 img/143/02.bmp
+	reduce() of empty sequence with no initial value
+143 img/143/03.bmp
+	reduce() of empty sequence with no initial value
+143 img/143/04.bmp
+	reduce() of empty sequence with no initial value
+143 img/143/05.bmp
+	reduce() of empty sequence with no initial value
+143 img/143/06.bmp
+143 img/143/07.bmp
+	reduce() of empty sequence with no initial value
+143 img/143/08.bmp
+	reduce() of empty sequence with no initial value
+143 img/143/09.bmp
+	reduce() of empty sequence with no initial value
+143 img/143/10.bmp
+144 img/144/01.bmp
+144 img/144/02.bmp
+144 img/144/03.bmp
+144 img/144/04.bmp
+144 img/144/05.bmp
+144 img/144/06.bmp
+144 img/144/07.bmp
+144 img/144/08.bmp
+144 img/144/09.bmp
+144 img/144/10.bmp
+145 img/145/01.bmp
+145 img/145/02.bmp
+145 img/145/03.bmp
+145 img/145/04.bmp
+145 img/145/05.bmp
+145 img/145/06.bmp
+145 img/145/07.bmp
+145 img/145/08.bmp
+145 img/145/09.bmp
+145 img/145/10.bmp
+146 img/146/01.bmp
+	reduce() of empty sequence with no initial value
+146 img/146/02.bmp
+	reduce() of empty sequence with no initial value
+146 img/146/03.bmp
+	reduce() of empty sequence with no initial value
+146 img/146/04.bmp
+	reduce() of empty sequence with no initial value
+146 img/146/05.bmp
+	reduce() of empty sequence with no initial value
+146 img/146/06.bmp
+146 img/146/07.bmp
+146 img/146/08.bmp
+146 img/146/09.bmp
+146 img/146/10.bmp
+147 img/147/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+147 img/147/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+147 img/147/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+147 img/147/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+147 img/147/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+147 img/147/06.bmp
+147 img/147/07.bmp
+147 img/147/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+147 img/147/09.bmp
+147 img/147/10.bmp
+148 img/148/01.bmp
+148 img/148/02.bmp
+148 img/148/03.bmp
+148 img/148/04.bmp
+148 img/148/05.bmp
+148 img/148/06.bmp
+148 img/148/07.bmp
+148 img/148/08.bmp
+148 img/148/09.bmp
+148 img/148/10.bmp
+149 img/149/01.bmp
+149 img/149/02.bmp
+149 img/149/03.bmp
+149 img/149/04.bmp
+149 img/149/05.bmp
+149 img/149/06.bmp
+149 img/149/07.bmp
+149 img/149/08.bmp
+149 img/149/09.bmp
+149 img/149/10.bmp
+150 img/150/01.bmp
+150 img/150/02.bmp
+150 img/150/03.bmp
+150 img/150/04.bmp
+150 img/150/05.bmp
+150 img/150/06.bmp
+150 img/150/07.bmp
+150 img/150/08.bmp
+150 img/150/09.bmp
+150 img/150/10.bmp
+151 img/151/01.bmp
+151 img/151/02.bmp
+151 img/151/03.bmp
+151 img/151/04.bmp
+151 img/151/05.bmp
+151 img/151/06.bmp
+151 img/151/07.bmp
+151 img/151/08.bmp
+151 img/151/09.bmp
+151 img/151/10.bmp
+152 img/152/01.bmp
+152 img/152/02.bmp
+152 img/152/03.bmp
+152 img/152/04.bmp
+152 img/152/05.bmp
+152 img/152/06.bmp
+152 img/152/07.bmp
+152 img/152/08.bmp
+152 img/152/09.bmp
+152 img/152/10.bmp
+153 img/153/01.bmp
+	reduce() of empty sequence with no initial value
+153 img/153/02.bmp
+153 img/153/03.bmp
+153 img/153/04.bmp
+153 img/153/05.bmp
+153 img/153/06.bmp
+	reduce() of empty sequence with no initial value
+153 img/153/07.bmp
+	reduce() of empty sequence with no initial value
+153 img/153/08.bmp
+	reduce() of empty sequence with no initial value
+153 img/153/09.bmp
+	reduce() of empty sequence with no initial value
+153 img/153/10.bmp
+	reduce() of empty sequence with no initial value
+154 img/154/01.bmp
+154 img/154/02.bmp
+154 img/154/03.bmp
+154 img/154/04.bmp
+154 img/154/05.bmp
+154 img/154/06.bmp
+154 img/154/07.bmp
+154 img/154/08.bmp
+154 img/154/09.bmp
+154 img/154/10.bmp
+155 img/155/01.bmp
+155 img/155/02.bmp
+155 img/155/03.bmp
+155 img/155/04.bmp
+155 img/155/05.bmp
+155 img/155/06.bmp
+155 img/155/07.bmp
+155 img/155/08.bmp
+155 img/155/09.bmp
+155 img/155/10.bmp
+156 img/156/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+156 img/156/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+156 img/156/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+156 img/156/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+156 img/156/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+156 img/156/06.bmp
+156 img/156/07.bmp
+156 img/156/08.bmp
+156 img/156/09.bmp
+156 img/156/10.bmp
+	invalid index into a 0-size array
+157 img/157/01.bmp
+157 img/157/02.bmp
+157 img/157/03.bmp
+157 img/157/04.bmp
+157 img/157/05.bmp
+157 img/157/06.bmp
+157 img/157/07.bmp
+157 img/157/08.bmp
+157 img/157/09.bmp
+157 img/157/10.bmp
+158 img/158/01.bmp
+158 img/158/02.bmp
+158 img/158/03.bmp
+158 img/158/04.bmp
+158 img/158/05.bmp
+158 img/158/06.bmp
+158 img/158/07.bmp
+158 img/158/08.bmp
+158 img/158/09.bmp
+158 img/158/10.bmp
+159 img/159/01.bmp
+159 img/159/02.bmp
+159 img/159/03.bmp
+159 img/159/04.bmp
+159 img/159/05.bmp
+159 img/159/06.bmp
+159 img/159/07.bmp
+159 img/159/08.bmp
+159 img/159/09.bmp
+159 img/159/10.bmp
+160 img/160/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+160 img/160/02.bmp
+160 img/160/03.bmp
+160 img/160/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+160 img/160/05.bmp
+160 img/160/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+160 img/160/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+160 img/160/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+160 img/160/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+160 img/160/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+161 img/161/01.bmp
+161 img/161/02.bmp
+161 img/161/03.bmp
+161 img/161/04.bmp
+161 img/161/05.bmp
+161 img/161/06.bmp
+161 img/161/07.bmp
+161 img/161/08.bmp
+161 img/161/09.bmp
+161 img/161/10.bmp
+162 img/162/01.bmp
+162 img/162/02.bmp
+162 img/162/03.bmp
+162 img/162/04.bmp
+162 img/162/05.bmp
+162 img/162/06.bmp
+162 img/162/07.bmp
+162 img/162/08.bmp
+162 img/162/09.bmp
+162 img/162/10.bmp
+163 img/163/01.bmp
+163 img/163/02.bmp
+163 img/163/03.bmp
+163 img/163/04.bmp
+163 img/163/05.bmp
+163 img/163/06.bmp
+163 img/163/07.bmp
+163 img/163/08.bmp
+163 img/163/09.bmp
+163 img/163/10.bmp
+164 img/164/01.bmp
+164 img/164/02.bmp
+164 img/164/03.bmp
+164 img/164/04.bmp
+164 img/164/05.bmp
+164 img/164/06.bmp
+164 img/164/07.bmp
+164 img/164/08.bmp
+164 img/164/09.bmp
+164 img/164/10.bmp
+165 img/165/01.bmp
+165 img/165/02.bmp
+165 img/165/03.bmp
+165 img/165/04.bmp
+165 img/165/05.bmp
+165 img/165/06.bmp
+165 img/165/07.bmp
+165 img/165/08.bmp
+165 img/165/09.bmp
+165 img/165/10.bmp
+166 img/166/01.bmp
+166 img/166/02.bmp
+	reduce() of empty sequence with no initial value
+166 img/166/03.bmp
+166 img/166/04.bmp
+	reduce() of empty sequence with no initial value
+166 img/166/05.bmp
+	reduce() of empty sequence with no initial value
+166 img/166/06.bmp
+166 img/166/07.bmp
+166 img/166/08.bmp
+166 img/166/09.bmp
+166 img/166/10.bmp
+167 img/167/01.bmp
+167 img/167/02.bmp
+167 img/167/03.bmp
+167 img/167/04.bmp
+167 img/167/05.bmp
+167 img/167/06.bmp
+167 img/167/07.bmp
+167 img/167/08.bmp
+167 img/167/09.bmp
+167 img/167/10.bmp
+168 img/168/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+168 img/168/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+168 img/168/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+168 img/168/04.bmp
+168 img/168/05.bmp
+168 img/168/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+168 img/168/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+168 img/168/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+168 img/168/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+168 img/168/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+169 img/169/01.bmp
+169 img/169/02.bmp
+169 img/169/03.bmp
+169 img/169/04.bmp
+169 img/169/05.bmp
+169 img/169/06.bmp
+169 img/169/07.bmp
+169 img/169/08.bmp
+169 img/169/09.bmp
+169 img/169/10.bmp
+170 img/170/01.bmp
+	reduce() of empty sequence with no initial value
+170 img/170/02.bmp
+	reduce() of empty sequence with no initial value
+170 img/170/03.bmp
+	reduce() of empty sequence with no initial value
+170 img/170/04.bmp
+	reduce() of empty sequence with no initial value
+170 img/170/05.bmp
+	reduce() of empty sequence with no initial value
+170 img/170/06.bmp
+	reduce() of empty sequence with no initial value
+170 img/170/07.bmp
+	reduce() of empty sequence with no initial value
+170 img/170/08.bmp
+	reduce() of empty sequence with no initial value
+170 img/170/09.bmp
+	reduce() of empty sequence with no initial value
+170 img/170/10.bmp
+	reduce() of empty sequence with no initial value
+171 img/171/01.bmp
+171 img/171/02.bmp
+171 img/171/03.bmp
+171 img/171/04.bmp
+171 img/171/05.bmp
+171 img/171/06.bmp
+171 img/171/07.bmp
+171 img/171/08.bmp
+171 img/171/09.bmp
+171 img/171/10.bmp
+172 img/172/01.bmp
+172 img/172/02.bmp
+172 img/172/03.bmp
+172 img/172/04.bmp
+172 img/172/05.bmp
+172 img/172/06.bmp
+172 img/172/07.bmp
+172 img/172/08.bmp
+172 img/172/09.bmp
+172 img/172/10.bmp
+173 img/173/01.bmp
+173 img/173/02.bmp
+173 img/173/03.bmp
+173 img/173/04.bmp
+173 img/173/05.bmp
+173 img/173/06.bmp
+173 img/173/07.bmp
+173 img/173/08.bmp
+173 img/173/09.bmp
+173 img/173/10.bmp
+174 img/174/01.bmp
+174 img/174/02.bmp
+174 img/174/03.bmp
+174 img/174/04.bmp
+174 img/174/05.bmp
+174 img/174/06.bmp
+174 img/174/07.bmp
+174 img/174/08.bmp
+174 img/174/09.bmp
+174 img/174/10.bmp
+175 img/175/01.bmp
+	reduce() of empty sequence with no initial value
+175 img/175/02.bmp
+	reduce() of empty sequence with no initial value
+175 img/175/03.bmp
+	reduce() of empty sequence with no initial value
+175 img/175/04.bmp
+	reduce() of empty sequence with no initial value
+175 img/175/05.bmp
+175 img/175/06.bmp
+175 img/175/07.bmp
+175 img/175/08.bmp
+175 img/175/09.bmp
+175 img/175/10.bmp
+176 img/176/01.bmp
+176 img/176/02.bmp
+176 img/176/03.bmp
+176 img/176/04.bmp
+176 img/176/05.bmp
+176 img/176/06.bmp
+176 img/176/07.bmp
+176 img/176/08.bmp
+176 img/176/09.bmp
+176 img/176/10.bmp
+177 img/177/01.bmp
+177 img/177/02.bmp
+177 img/177/03.bmp
+177 img/177/04.bmp
+177 img/177/05.bmp
+177 img/177/06.bmp
+177 img/177/07.bmp
+177 img/177/08.bmp
+177 img/177/09.bmp
+177 img/177/10.bmp
+178 img/178/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+178 img/178/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+178 img/178/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+178 img/178/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+178 img/178/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+178 img/178/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+178 img/178/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+178 img/178/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+178 img/178/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+178 img/178/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+179 img/179/01.bmp
+179 img/179/02.bmp
+179 img/179/03.bmp
+179 img/179/04.bmp
+179 img/179/05.bmp
+179 img/179/06.bmp
+179 img/179/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+179 img/179/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+179 img/179/09.bmp
+179 img/179/10.bmp
+180 img/180/01.bmp
+180 img/180/02.bmp
+180 img/180/03.bmp
+180 img/180/04.bmp
+180 img/180/05.bmp
+180 img/180/06.bmp
+180 img/180/07.bmp
+180 img/180/08.bmp
+180 img/180/09.bmp
+180 img/180/10.bmp
+181 img/181/01.bmp
+181 img/181/02.bmp
+181 img/181/03.bmp
+181 img/181/04.bmp
+181 img/181/05.bmp
+181 img/181/06.bmp
+181 img/181/07.bmp
+181 img/181/08.bmp
+181 img/181/09.bmp
+181 img/181/10.bmp
+182 img/182/01.bmp
+	reduce() of empty sequence with no initial value
+182 img/182/02.bmp
+	reduce() of empty sequence with no initial value
+182 img/182/03.bmp
+	reduce() of empty sequence with no initial value
+182 img/182/04.bmp
+	reduce() of empty sequence with no initial value
+182 img/182/05.bmp
+	reduce() of empty sequence with no initial value
+182 img/182/06.bmp
+182 img/182/07.bmp
+182 img/182/08.bmp
+182 img/182/09.bmp
+182 img/182/10.bmp
+183 img/183/01.bmp
+183 img/183/02.bmp
+183 img/183/03.bmp
+183 img/183/04.bmp
+183 img/183/05.bmp
+183 img/183/06.bmp
+183 img/183/07.bmp
+183 img/183/08.bmp
+183 img/183/09.bmp
+183 img/183/10.bmp
+184 img/184/01.bmp
+184 img/184/02.bmp
+184 img/184/03.bmp
+184 img/184/04.bmp
+184 img/184/05.bmp
+184 img/184/06.bmp
+184 img/184/07.bmp
+184 img/184/08.bmp
+184 img/184/09.bmp
+184 img/184/10.bmp
+185 img/185/01.bmp
+185 img/185/02.bmp
+185 img/185/03.bmp
+185 img/185/04.bmp
+185 img/185/05.bmp
+185 img/185/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+185 img/185/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+185 img/185/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+185 img/185/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+185 img/185/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+186 img/186/01.bmp
+186 img/186/02.bmp
+186 img/186/03.bmp
+186 img/186/04.bmp
+186 img/186/05.bmp
+186 img/186/06.bmp
+186 img/186/07.bmp
+186 img/186/08.bmp
+186 img/186/09.bmp
+186 img/186/10.bmp
+187 img/187/01.bmp
+187 img/187/02.bmp
+187 img/187/03.bmp
+187 img/187/04.bmp
+187 img/187/05.bmp
+187 img/187/06.bmp
+187 img/187/07.bmp
+187 img/187/08.bmp
+187 img/187/09.bmp
+187 img/187/10.bmp
+188 img/188/01.bmp
+188 img/188/02.bmp
+188 img/188/03.bmp
+188 img/188/04.bmp
+188 img/188/05.bmp
+188 img/188/06.bmp
+188 img/188/07.bmp
+188 img/188/08.bmp
+188 img/188/09.bmp
+188 img/188/10.bmp
+189 img/189/01.bmp
+189 img/189/02.bmp
+189 img/189/03.bmp
+189 img/189/04.bmp
+189 img/189/05.bmp
+189 img/189/06.bmp
+189 img/189/07.bmp
+189 img/189/08.bmp
+189 img/189/09.bmp
+189 img/189/10.bmp
+190 img/190/01.bmp
+	reduce() of empty sequence with no initial value
+190 img/190/02.bmp
+	reduce() of empty sequence with no initial value
+190 img/190/03.bmp
+190 img/190/04.bmp
+190 img/190/05.bmp
+190 img/190/06.bmp
+190 img/190/07.bmp
+190 img/190/08.bmp
+190 img/190/09.bmp
+190 img/190/10.bmp
+191 img/191/01.bmp
+191 img/191/02.bmp
+191 img/191/03.bmp
+191 img/191/04.bmp
+191 img/191/05.bmp
+191 img/191/06.bmp
+191 img/191/07.bmp
+191 img/191/08.bmp
+191 img/191/09.bmp
+191 img/191/10.bmp
+192 img/192/01.bmp
+192 img/192/02.bmp
+192 img/192/03.bmp
+192 img/192/04.bmp
+192 img/192/05.bmp
+192 img/192/06.bmp
+192 img/192/07.bmp
+192 img/192/08.bmp
+192 img/192/09.bmp
+192 img/192/10.bmp
+193 img/193/01.bmp
+193 img/193/02.bmp
+193 img/193/03.bmp
+193 img/193/04.bmp
+193 img/193/05.bmp
+193 img/193/06.bmp
+193 img/193/07.bmp
+193 img/193/08.bmp
+193 img/193/09.bmp
+193 img/193/10.bmp
+194 img/194/01.bmp
+194 img/194/02.bmp
+194 img/194/03.bmp
+194 img/194/04.bmp
+194 img/194/05.bmp
+194 img/194/06.bmp
+194 img/194/07.bmp
+194 img/194/08.bmp
+194 img/194/09.bmp
+194 img/194/10.bmp
+195 img/195/01.bmp
+195 img/195/02.bmp
+195 img/195/03.bmp
+195 img/195/04.bmp
+195 img/195/05.bmp
+195 img/195/06.bmp
+195 img/195/07.bmp
+195 img/195/08.bmp
+195 img/195/09.bmp
+195 img/195/10.bmp
+196 img/196/01.bmp
+	zero-size array to reduction operation minimum which has no identity
+196 img/196/02.bmp
+	zero-size array to reduction operation minimum which has no identity
+196 img/196/03.bmp
+	zero-size array to reduction operation minimum which has no identity
+196 img/196/04.bmp
+	zero-size array to reduction operation minimum which has no identity
+196 img/196/05.bmp
+	zero-size array to reduction operation minimum which has no identity
+196 img/196/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+196 img/196/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+196 img/196/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+196 img/196/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+196 img/196/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+197 img/197/01.bmp
+197 img/197/02.bmp
+197 img/197/03.bmp
+197 img/197/04.bmp
+197 img/197/05.bmp
+197 img/197/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+197 img/197/07.bmp
+197 img/197/08.bmp
+197 img/197/09.bmp
+197 img/197/10.bmp
+198 img/198/01.bmp
+198 img/198/02.bmp
+198 img/198/03.bmp
+198 img/198/04.bmp
+198 img/198/05.bmp
+198 img/198/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+198 img/198/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+198 img/198/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+198 img/198/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+198 img/198/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+199 img/199/01.bmp
+199 img/199/02.bmp
+199 img/199/03.bmp
+199 img/199/04.bmp
+199 img/199/05.bmp
+199 img/199/06.bmp
+199 img/199/07.bmp
+199 img/199/08.bmp
+199 img/199/09.bmp
+199 img/199/10.bmp
+200 img/200/01.bmp
+200 img/200/02.bmp
+200 img/200/03.bmp
+200 img/200/04.bmp
+200 img/200/05.bmp
+200 img/200/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+200 img/200/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+200 img/200/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+200 img/200/09.bmp
+200 img/200/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+201 img/201/01.bmp
+201 img/201/02.bmp
+201 img/201/03.bmp
+201 img/201/04.bmp
+201 img/201/05.bmp
+201 img/201/06.bmp
+201 img/201/07.bmp
+201 img/201/08.bmp
+201 img/201/09.bmp
+201 img/201/10.bmp
+202 img/202/01.bmp
+202 img/202/02.bmp
+202 img/202/03.bmp
+202 img/202/04.bmp
+202 img/202/05.bmp
+202 img/202/06.bmp
+202 img/202/07.bmp
+202 img/202/08.bmp
+202 img/202/09.bmp
+202 img/202/10.bmp
+203 img/203/01.bmp
+203 img/203/02.bmp
+203 img/203/03.bmp
+203 img/203/04.bmp
+203 img/203/05.bmp
+203 img/203/06.bmp
+	reduce() of empty sequence with no initial value
+203 img/203/07.bmp
+203 img/203/08.bmp
+203 img/203/09.bmp
+203 img/203/10.bmp
+204 img/204/01.bmp
+204 img/204/02.bmp
+204 img/204/03.bmp
+204 img/204/04.bmp
+204 img/204/05.bmp
+204 img/204/06.bmp
+	invalid index into a 0-size array
+204 img/204/07.bmp
+204 img/204/08.bmp
+	invalid index into a 0-size array
+204 img/204/09.bmp
+	invalid index into a 0-size array
+204 img/204/10.bmp
+205 img/205/01.bmp
+205 img/205/02.bmp
+205 img/205/03.bmp
+205 img/205/04.bmp
+205 img/205/05.bmp
+205 img/205/06.bmp
+205 img/205/07.bmp
+205 img/205/08.bmp
+205 img/205/09.bmp
+205 img/205/10.bmp
+206 img/206/01.bmp
+206 img/206/02.bmp
+206 img/206/03.bmp
+206 img/206/04.bmp
+206 img/206/05.bmp
+206 img/206/06.bmp
+206 img/206/07.bmp
+206 img/206/08.bmp
+206 img/206/09.bmp
+206 img/206/10.bmp
+207 img/207/01.bmp
+207 img/207/02.bmp
+207 img/207/03.bmp
+207 img/207/04.bmp
+207 img/207/05.bmp
+207 img/207/06.bmp
+207 img/207/07.bmp
+207 img/207/08.bmp
+207 img/207/09.bmp
+207 img/207/10.bmp
+208 img/208/01.bmp
+208 img/208/02.bmp
+208 img/208/03.bmp
+208 img/208/04.bmp
+208 img/208/05.bmp
+208 img/208/06.bmp
+208 img/208/07.bmp
+208 img/208/08.bmp
+208 img/208/09.bmp
+208 img/208/10.bmp
+209 img/209/01.bmp
+209 img/209/02.bmp
+209 img/209/03.bmp
+209 img/209/04.bmp
+209 img/209/05.bmp
+209 img/209/06.bmp
+	reduce() of empty sequence with no initial value
+209 img/209/07.bmp
+209 img/209/08.bmp
+	reduce() of empty sequence with no initial value
+209 img/209/09.bmp
+209 img/209/10.bmp
+	reduce() of empty sequence with no initial value
+210 img/210/01.bmp
+210 img/210/02.bmp
+210 img/210/03.bmp
+210 img/210/04.bmp
+210 img/210/05.bmp
+210 img/210/06.bmp
+210 img/210/07.bmp
+210 img/210/08.bmp
+210 img/210/09.bmp
+210 img/210/10.bmp
+211 img/211/01.bmp
+	reduce() of empty sequence with no initial value
+211 img/211/02.bmp
+211 img/211/03.bmp
+211 img/211/04.bmp
+	reduce() of empty sequence with no initial value
+211 img/211/05.bmp
+	reduce() of empty sequence with no initial value
+211 img/211/06.bmp
+	reduce() of empty sequence with no initial value
+211 img/211/07.bmp
+	reduce() of empty sequence with no initial value
+211 img/211/08.bmp
+	reduce() of empty sequence with no initial value
+211 img/211/09.bmp
+	reduce() of empty sequence with no initial value
+211 img/211/10.bmp
+	reduce() of empty sequence with no initial value
+212 img/212/01.bmp
+212 img/212/02.bmp
+212 img/212/03.bmp
+212 img/212/04.bmp
+212 img/212/05.bmp
+212 img/212/06.bmp
+212 img/212/07.bmp
+212 img/212/08.bmp
+212 img/212/09.bmp
+212 img/212/10.bmp
+213 img/213/01.bmp
+213 img/213/02.bmp
+213 img/213/03.bmp
+213 img/213/04.bmp
+213 img/213/05.bmp
+213 img/213/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+213 img/213/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+213 img/213/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+213 img/213/09.bmp
+213 img/213/10.bmp
+214 img/214/01.bmp
+214 img/214/02.bmp
+214 img/214/03.bmp
+214 img/214/04.bmp
+214 img/214/05.bmp
+214 img/214/06.bmp
+214 img/214/07.bmp
+214 img/214/08.bmp
+214 img/214/09.bmp
+214 img/214/10.bmp
+215 img/215/01.bmp
+215 img/215/02.bmp
+215 img/215/03.bmp
+215 img/215/04.bmp
+215 img/215/05.bmp
+215 img/215/06.bmp
+215 img/215/07.bmp
+215 img/215/08.bmp
+215 img/215/09.bmp
+215 img/215/10.bmp
+216 img/216/01.bmp
+216 img/216/02.bmp
+216 img/216/03.bmp
+216 img/216/04.bmp
+216 img/216/05.bmp
+216 img/216/06.bmp
+216 img/216/07.bmp
+216 img/216/08.bmp
+216 img/216/09.bmp
+216 img/216/10.bmp
+217 img/217/01.bmp
+217 img/217/02.bmp
+217 img/217/03.bmp
+	reduce() of empty sequence with no initial value
+217 img/217/04.bmp
+	reduce() of empty sequence with no initial value
+217 img/217/05.bmp
+217 img/217/06.bmp
+217 img/217/07.bmp
+217 img/217/08.bmp
+217 img/217/09.bmp
+217 img/217/10.bmp
+218 img/218/01.bmp
+218 img/218/02.bmp
+218 img/218/03.bmp
+218 img/218/04.bmp
+218 img/218/05.bmp
+218 img/218/06.bmp
+218 img/218/07.bmp
+218 img/218/08.bmp
+218 img/218/09.bmp
+218 img/218/10.bmp
+219 img/219/01.bmp
+219 img/219/02.bmp
+219 img/219/03.bmp
+219 img/219/04.bmp
+219 img/219/05.bmp
+219 img/219/06.bmp
+	zero-size array to reduction operation minimum which has no identity
+219 img/219/07.bmp
+	zero-size array to reduction operation minimum which has no identity
+219 img/219/08.bmp
+	zero-size array to reduction operation minimum which has no identity
+219 img/219/09.bmp
+	zero-size array to reduction operation minimum which has no identity
+219 img/219/10.bmp
+	zero-size array to reduction operation minimum which has no identity
+220 img/220/01.bmp
+220 img/220/02.bmp
+220 img/220/03.bmp
+220 img/220/04.bmp
+220 img/220/05.bmp
+220 img/220/06.bmp
+220 img/220/07.bmp
+220 img/220/08.bmp
+220 img/220/09.bmp
+220 img/220/10.bmp
+221 img/221/01.bmp
+221 img/221/02.bmp
+221 img/221/03.bmp
+221 img/221/04.bmp
+221 img/221/05.bmp
+221 img/221/06.bmp
+221 img/221/07.bmp
+221 img/221/08.bmp
+221 img/221/09.bmp
+221 img/221/10.bmp
+222 img/222/01.bmp
+222 img/222/02.bmp
+222 img/222/03.bmp
+222 img/222/04.bmp
+222 img/222/05.bmp
+222 img/222/06.bmp
+222 img/222/07.bmp
+222 img/222/08.bmp
+222 img/222/09.bmp
+222 img/222/10.bmp
+223 img/223/01.bmp
+223 img/223/02.bmp
+223 img/223/03.bmp
+223 img/223/04.bmp
+223 img/223/05.bmp
+223 img/223/06.bmp
+223 img/223/07.bmp
+	reduce() of empty sequence with no initial value
+223 img/223/08.bmp
+	reduce() of empty sequence with no initial value
+223 img/223/09.bmp
+223 img/223/10.bmp
+	reduce() of empty sequence with no initial value
+224 img/224/01.bmp
+224 img/224/02.bmp
+224 img/224/03.bmp
+224 img/224/04.bmp
+224 img/224/05.bmp
+224 img/224/06.bmp
+224 img/224/07.bmp
+224 img/224/08.bmp
+224 img/224/09.bmp
+224 img/224/10.bmp
+0.2265625
+[[1 0 0 ..., 0 0 0]
+ [0 0 0 ..., 0 0 0]
+ [0 0 1 ..., 0 0 0]
+ ..., 
+ [0 0 0 ..., 3 0 0]
+ [0 0 0 ..., 0 1 0]
+ [0 0 0 ..., 0 0 2]]
